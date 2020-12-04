@@ -1,6 +1,6 @@
 {
   "name": "No PMs Bot",
-  "description": "Modular  Telegram Bot powered by @PyroGram!",
+  "description": "Modular  Telegram Bot powered by @filmsandtrends!",
   "logo": "https://telegra.ph/file/55501e726922e79b8eea9.png",
   "keywords": [
     "telegram",
@@ -12,9 +12,9 @@
     "channel",
     "administrators"
   ],
-  "repository": "https://github.com/SpEcHIDe/NoPMsBot",
-  "website": "https://telegram.dog/SpEcHlDe",
-  "success_url": "https://t.me/SpEcHlDe/571",
+  "repository": "https://t.me/filmsandtrends_Owner",
+  "channel": "https://t.me/filmsandtrends",
+  "success_url": "https://t.me/filmsandtrends",
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal"
